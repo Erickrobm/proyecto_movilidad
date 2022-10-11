@@ -3,7 +3,7 @@ Exploración y análisis del uso del transporte público en la Ciudad de México
 
 ### Versiones
 ```
-    python = 3.8.8
+    python==3.8.8
     numpy==1.22.3
     pandas==1.4.2
     plotly==5.10.0
